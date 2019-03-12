@@ -98,8 +98,8 @@ font-family: 'Monoist-Regular';
  src: url('font/Monoist-Regular.otf');
 }
 @font-face {
-font-family: 'MalayalamMN';
- src: url('font/MalayalamMN.ttf');
+font-family: 'ocr-a-std';
+ src: url('font/OCRAStd.otf');
 }
 
 
