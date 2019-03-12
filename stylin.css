@@ -533,7 +533,9 @@ div.lcp_item:hover{
  font-size: 1.53vw;
  line-height:1.2em;
  text-align:left;
- font-family: 'OCR A Std','Circular Pro Book',sans-serif;
+font-family: ocr-a-std, monospace;
+  font-weight: 400;
+  font-style: normal;
  /* text-transform: uppercase; */
 }
 .lcp_title a{
